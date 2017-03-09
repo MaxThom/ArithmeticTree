@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ArithmeticTree namespace" Url="html/2a1958d3-01e5-54e5-d715-de5dca9c5275.htm" />
+  <HelpKINode Title="ArithmeticTree(Of T) class">
+    <HelpKINode Title="ArithmeticTree(T) Class" Url="html/2b124a88-31da-5572-e45c-f087b96d48e8.htm" />
+    <HelpKINode Title="about ArithmeticTree(Of T) class" Url="html/2b124a88-31da-5572-e45c-f087b96d48e8.htm" />
+    <HelpKINode Title="constructor" Url="html/624f52c1-132c-9337-8eff-8ab3f2f800ce.htm" />
+    <HelpKINode Title="methods" Url="html/29ce583d-46c3-9a2b-230c-310c33afd390.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ArithmeticTree(Of T).ArithmeticTree constructor" Url="html/624f52c1-132c-9337-8eff-8ab3f2f800ce.htm" />
+  <HelpKINode Title="ArithmeticTree(Of T).GetElement method" Url="html/69a9916e-60fb-4018-555d-cf86490da098.htm" />
+  <HelpKINode Title="ArithmeticTree.ArithmeticTree(Of T) class" Url="html/2b124a88-31da-5572-e45c-f087b96d48e8.htm" />
+  <HelpKINode Title="ArithmeticTree.ArithmeticTree&lt;T&gt; class" Url="html/2b124a88-31da-5572-e45c-f087b96d48e8.htm" />
+  <HelpKINode Title="ArithmeticTree.BinaryTree(Of T) interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+  <HelpKINode Title="ArithmeticTree.BinaryTree&lt;T&gt; interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+  <HelpKINode Title="ArithmeticTree.Node(Of T) class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
+  <HelpKINode Title="ArithmeticTree.Node&lt;T&gt; class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
+  <HelpKINode Title="ArithmeticTree.Program class" Url="html/bab426d9-71e6-969a-eaff-7f49572bde26.htm" />
+  <HelpKINode Title="ArithmeticTree&lt;T&gt; class">
+    <HelpKINode Title="ArithmeticTree(T) Class" Url="html/2b124a88-31da-5572-e45c-f087b96d48e8.htm" />
+    <HelpKINode Title="about ArithmeticTree&lt;T&gt; class" Url="html/2b124a88-31da-5572-e45c-f087b96d48e8.htm" />
+    <HelpKINode Title="constructor" Url="html/624f52c1-132c-9337-8eff-8ab3f2f800ce.htm" />
+    <HelpKINode Title="methods" Url="html/29ce583d-46c3-9a2b-230c-310c33afd390.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ArithmeticTree&lt;T&gt;.ArithmeticTree constructor" Url="html/624f52c1-132c-9337-8eff-8ab3f2f800ce.htm" />
+  <HelpKINode Title="ArithmeticTree&lt;T&gt;.GetElement method" Url="html/69a9916e-60fb-4018-555d-cf86490da098.htm" />
+  <HelpKINode Title="BinaryTree(Of T) interface">
+    <HelpKINode Title="BinaryTree(T) Interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+    <HelpKINode Title="about BinaryTree(Of T) interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+    <HelpKINode Title="methods" Url="html/5672aaa1-9bfb-74e8-50db-b54d33f7a22c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryTree(Of T).GetElement method" Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
+  <HelpKINode Title="BinaryTree&lt;T&gt; interface">
+    <HelpKINode Title="BinaryTree(T) Interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+    <HelpKINode Title="about BinaryTree&lt;T&gt; interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+    <HelpKINode Title="methods" Url="html/5672aaa1-9bfb-74e8-50db-b54d33f7a22c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryTree&lt;T&gt;.GetElement method" Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
+  <HelpKINode Title="GetElement method">
+    <HelpKINode Title="ArithmeticTree(T).GetElement Method " Url="html/69a9916e-60fb-4018-555d-cf86490da098.htm" />
+    <HelpKINode Title="BinaryTree(T).GetElement Method " Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Main method" Url="html/11181802-ef2b-fdc1-d0c0-cf8e7d51eff1.htm" />
+  <HelpKINode Title="Node(Of T) class">
+    <HelpKINode Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
+    <HelpKINode Title="about Node(Of T) class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
+    <HelpKINode Title="constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Node(Of T).Node constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+  <HelpKINode Title="Node&lt;T&gt; class">
+    <HelpKINode Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
+    <HelpKINode Title="about Node&lt;T&gt; class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
+    <HelpKINode Title="constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Node&lt;T&gt;.Node constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/bab426d9-71e6-969a-eaff-7f49572bde26.htm" />
+    <HelpKINode Title="about Program class" Url="html/bab426d9-71e6-969a-eaff-7f49572bde26.htm" />
+    <HelpKINode Title="constructor" Url="html/899b74bd-f10f-0217-852b-19d84e8b4faa.htm" />
+    <HelpKINode Title="methods" Url="html/98f01acc-2725-441f-be30-9cebc31d99c9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main method" Url="html/11181802-ef2b-fdc1-d0c0-cf8e7d51eff1.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/899b74bd-f10f-0217-852b-19d84e8b4faa.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/d619f0d0-52ae-4684-9016-1f0bf98b8c6e.htm" />
+    <HelpKINode Title="history" Url="html/09554b0a-940d-42d1-a247-10dcd626ad80.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/c8b29ed4-6119-49c8-ab8c-ad66ea218238.htm" />
+</HelpKI>

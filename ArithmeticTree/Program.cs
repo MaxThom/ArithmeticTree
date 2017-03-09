@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace ArithmeticTree
 {
-    class Program
+    /// <summary>
+    /// Main class for the project
+    /// </summary>
+    public class Program
     {
+        /// <summary>
+        /// Enter point of the project
+        /// </summary>
+        /// <param name="args">argument when launching project</param>
         static void Main(string[] args)
         {
         }
