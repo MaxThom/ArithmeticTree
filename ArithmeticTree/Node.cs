@@ -18,6 +18,23 @@ namespace ArithmeticTree
         public T Data { get; set; }
 
         /// <summary>
+        /// Default Constructor
+        /// </summary>
+        public Node()
+        {
+            
+        }
+
+        /// <summary>
+        /// Constructor with data
+        /// </summary>
+        /// <param name="data">Information to hold</param>
+        public Node(T data)
+        {
+            Data = data;
+        }
+
+        /// <summary>
         /// Parent node
         /// </summary>
         public Node<T> ParentNode { get; set; }
@@ -35,8 +52,8 @@ namespace ArithmeticTree
         /// <summary>
         /// Return an array with all the siblings
         /// </summary>
-        /// <param name="node"></param>
-        /// <returns></returns>
+        /// <param name="node">Parent node</param>
+        /// <returns>Table of Nodes</returns>
         IEnumerable<Node<T>> GetChildren(Node<T> node)
         {
             throw new NotImplementedException();

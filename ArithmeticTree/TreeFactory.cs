@@ -29,11 +29,46 @@ namespace ArithmeticTree
         /// <returns>A Tree</returns>
         public static ArithmeticTree CreateArithmeticTree(string expression)
         {
-            List<String> listPostFix = InfixToPostFix(ExpressionToList(expression));
+            // Transform the expression into infix notation
+            List<string> listPostFix = InfixToPostFix(ExpressionToList(expression));
+            // Set root and current nood
+            Node<string> root = new Node<string>(listPostFix.Last());
+            Node<string> current = root;
 
+            // Until we created every root
+            for (int i = listPostFix.Count - 2; i >= 0; i--)
+            {
+                // Set parent, left or right 
+                Node<string> next = new Node<string>(listPostFix[i]);
+                next.ParentNode = current;
 
+                if ((current.RightNode == null))
+                    current.RightNode = next;
+                else
+                    current.LeftNode = next;
 
-            return new ArithmeticTree();
+                // If next is an operator than change position
+                // else go back up to find the next available left spot
+                if (_operators.Contains(listPostFix[i]))
+                    current = next;
+                else if (current.LeftNode != null)
+                {
+                    while (true)
+                    {
+                        if (current.ParentNode == null)
+                            break;
+                        else if (current.ParentNode.LeftNode != null)
+                            current = current.ParentNode;
+                        else
+                        {
+                            current = current.ParentNode;
+                            break;
+                        }
+                    }
+                }
+            }
+
+            return new ArithmeticTree(root, listPostFix.Count);
         }
 
         /// <summary>

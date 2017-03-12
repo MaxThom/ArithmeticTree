@@ -9,8 +9,7 @@ namespace ArithmeticTree
 {
     /// <summary>
     /// Represent an ArithmeticTree for calculating arithmetic expression
-    /// </summary>
-    /// <typeparam name="T">Type of the node data</typeparam>
+    /// </summary>    
     class ArithmeticTree : BinaryTree<string> 
     {
         /// <summary>
@@ -27,6 +26,18 @@ namespace ArithmeticTree
         {
             
         }
+        
+        /// <summary>
+        /// Constructor with root
+        /// </summary>
+        /// <param name="pRoot">Root of the tree</param>
+        /// <param name="pSize">Number of nodes</param>
+        public ArithmeticTree(Node<string> pRoot, int pSize)
+        {
+            _root = pRoot;
+            _size = pSize;
+        }
+
 
         #region Implementation of BinaryTree<T>
 

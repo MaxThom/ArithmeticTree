@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="cb055513-5f32-463b-a5ba-fcfcb85d7466" Title="ArithmeticTree" Url="html/2a1958d3-01e5-54e5-d715-de5dca9c5275.htm">
-    <HelpTOCNode Id="6339f20d-bd61-422b-b82b-b22929ef6f96" Title="ArithmeticTree Class" Url="html/d2b0f6ee-88c8-46be-5310-98fbb1ba2468.htm">
-      <HelpTOCNode Title="ArithmeticTree Constructor " Url="html/745120df-2b41-914b-8ccc-aab15c64c18e.htm" />
-      <HelpTOCNode Id="ac9decd3-870c-4166-b52b-e2bd979ab1d3" Title="ArithmeticTree Methods" Url="html/28a5bf29-2fad-cd67-1dd8-14adf7f1c8af.htm">
+  <HelpTOCNode Id="613f6a7c-687c-432e-b104-dc5b5d7e73bc" Title="ArithmeticTree" Url="html/2a1958d3-01e5-54e5-d715-de5dca9c5275.htm">
+    <HelpTOCNode Id="56953523-7a93-4bf1-91da-da127fb5dc65" Title="ArithmeticTree Class" Url="html/d2b0f6ee-88c8-46be-5310-98fbb1ba2468.htm">
+      <HelpTOCNode Id="e7f2f61f-71f9-49a0-8456-9536b975d45b" Title="ArithmeticTree Constructor " Url="html/aa1b8a14-400a-6a9f-dc4a-131554ae145a.htm">
+        <HelpTOCNode Title="ArithmeticTree Constructor " Url="html/745120df-2b41-914b-8ccc-aab15c64c18e.htm" />
+        <HelpTOCNode Title="ArithmeticTree Constructor (Node(String), Int32)" Url="html/b1ed44b7-ad58-7624-ae9b-433f4af41fb3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="04af62e4-bc99-4909-9264-767c3f4ced33" Title="ArithmeticTree Methods" Url="html/28a5bf29-2fad-cd67-1dd8-14adf7f1c8af.htm">
         <HelpTOCNode Title="GetElement Method " Url="html/7fe82461-b045-3455-98c0-2d3d7176c212.htm" />
         <HelpTOCNode Title="GetRoot Method " Url="html/06ded0bc-66b9-5bd4-b091-d8861e32218c.htm" />
         <HelpTOCNode Title="Height Method " Url="html/15632a7f-fbf8-78a9-3098-f7f8a91d65be.htm" />
@@ -13,8 +16,8 @@
         <HelpTOCNode Title="Size Method " Url="html/f0206fdd-6c0f-6e5c-7196-cc766775d968.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5cb8bf1b-4580-4186-93a5-83a8fef94fdc" Title="BinaryTree(T) Interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm">
-      <HelpTOCNode Id="57dd8674-83df-428b-a2b9-c4969601b11d" Title="BinaryTree(T) Methods" Url="html/5672aaa1-9bfb-74e8-50db-b54d33f7a22c.htm">
+    <HelpTOCNode Id="4a3c89d2-7e23-4370-8441-1899d2e8e868" Title="BinaryTree(T) Interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm">
+      <HelpTOCNode Id="47b3fd63-875d-4eff-873c-ff3040790b5e" Title="BinaryTree(T) Methods" Url="html/5672aaa1-9bfb-74e8-50db-b54d33f7a22c.htm">
         <HelpTOCNode Title="GetElement Method " Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
         <HelpTOCNode Title="GetRoot Method " Url="html/e9e9964d-1fb3-79d0-142c-194ffb76514a.htm" />
         <HelpTOCNode Title="Height Method " Url="html/b7ae1cde-8962-151c-4966-59475a36256e.htm" />
@@ -23,30 +26,33 @@
         <HelpTOCNode Title="Size Method " Url="html/2ed8ed81-1d6e-bb3d-dc8a-a94348729bfa.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2f08faed-c161-45f1-ba0f-9720ae41d895" Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm">
-      <HelpTOCNode Title="Node(T) Constructor " Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
-      <HelpTOCNode Id="9e8f4d4a-2020-4b32-befd-374348a4c899" Title="Node(T) Properties" Url="html/73d81879-7734-30c7-845b-91a922781fe1.htm">
+    <HelpTOCNode Id="e52f46af-f520-49f8-97a6-88883f94c52b" Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm">
+      <HelpTOCNode Id="a50e0edc-9dca-4f5a-ad28-3fd789a248c0" Title="Node(T) Constructor " Url="html/b705cc2b-ce3e-f1b7-394f-3663d70c8301.htm">
+        <HelpTOCNode Title="Node(T) Constructor " Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+        <HelpTOCNode Title="Node(T) Constructor (T)" Url="html/e6cb5a5b-ca22-2735-ba86-11b1a3ae0f9b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a8c6b209-181f-4d66-b5bd-28e7f8bcf52a" Title="Node(T) Properties" Url="html/73d81879-7734-30c7-845b-91a922781fe1.htm">
         <HelpTOCNode Title="Data Property " Url="html/56322196-1beb-115d-6ef1-43ed42d1a12a.htm" />
         <HelpTOCNode Title="LeftNode Property " Url="html/3927723f-3ce0-bc7d-2715-45135e89cfb8.htm" />
         <HelpTOCNode Title="ParentNode Property " Url="html/26414706-8525-4283-b0d0-e0e5450f260e.htm" />
         <HelpTOCNode Title="RightNode Property " Url="html/d3f4fd84-95cb-25f0-7135-1be6977c9353.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="78e305a3-313e-438c-9770-072e640bc74d" Title="Node(T) Methods" Url="html/e9e599d1-f21f-99dc-942a-cecec2302db5.htm">
+      <HelpTOCNode Id="12715a8e-48db-440b-96aa-848b1d7fc748" Title="Node(T) Methods" Url="html/e9e599d1-f21f-99dc-942a-cecec2302db5.htm">
         <HelpTOCNode Title="GetChildren Method " Url="html/42b96361-1f44-25b4-48ce-91d7b0664953.htm" />
         <HelpTOCNode Title="IsExternal Method " Url="html/fcd87103-8b05-4a5a-54cd-b57ea1fe7e20.htm" />
         <HelpTOCNode Title="IsInternal Method " Url="html/a789f95d-634b-bfb2-9803-3e0c697a2074.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3bce7cb1-fec6-474f-a1c2-bcf7398d8328" Title="Program Class" Url="html/bab426d9-71e6-969a-eaff-7f49572bde26.htm">
+    <HelpTOCNode Id="dfd2e28f-462a-4c76-b168-3615b35327b9" Title="Program Class" Url="html/bab426d9-71e6-969a-eaff-7f49572bde26.htm">
       <HelpTOCNode Title="Program Constructor " Url="html/899b74bd-f10f-0217-852b-19d84e8b4faa.htm" />
-      <HelpTOCNode Id="19cade74-3b0d-4e83-aeea-0a8f80aa0e63" Title="Program Methods" Url="html/98f01acc-2725-441f-be30-9cebc31d99c9.htm">
+      <HelpTOCNode Id="f870795d-cf32-4767-8a33-5862b0330638" Title="Program Methods" Url="html/98f01acc-2725-441f-be30-9cebc31d99c9.htm">
         <HelpTOCNode Title="Main Method " Url="html/11181802-ef2b-fdc1-d0c0-cf8e7d51eff1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c7aa563f-072a-4b3b-b5b2-8cc73139333d" Title="TreeFactory Class" Url="html/24045dbd-b79d-d782-5c09-e833b85f45ab.htm">
+    <HelpTOCNode Id="eaf18478-28a7-4d63-8224-1ca2e6187412" Title="TreeFactory Class" Url="html/24045dbd-b79d-d782-5c09-e833b85f45ab.htm">
       <HelpTOCNode Title="TreeFactory Constructor " Url="html/28037469-5451-ddb0-5290-3d0c52419bff.htm" />
       <HelpTOCNode Title="TreeFactory Constructor " Url="html/a54e22ec-025b-0a49-4084-48efe4d30ac6.htm" />
-      <HelpTOCNode Id="fba44e89-9f50-45bb-b270-7a976a6054b2" Title="TreeFactory Methods" Url="html/88d0604e-361f-a539-3574-e75e7f1f362c.htm">
+      <HelpTOCNode Id="39d3f1b4-bdcb-4ba6-9ff5-385863e7c006" Title="TreeFactory Methods" Url="html/88d0604e-361f-a539-3574-e75e7f1f362c.htm">
         <HelpTOCNode Title="CreateArithmeticTree Method " Url="html/d07e8b85-1995-214d-6f1b-867ab47fa2b2.htm" />
         <HelpTOCNode Title="ExpressionToList Method " Url="html/31a22ffd-615e-52fd-338d-45eb788f0fba.htm" />
         <HelpTOCNode Title="GetNumber Method " Url="html/37800a80-9538-eb39-3970-5a488935fa8c.htm" />
@@ -57,7 +63,7 @@
     </HelpTOCNode>
   </HelpTOCNode>
   <HelpTOCNode Title="Welcome" Url="html/c8b29ed4-6119-49c8-ab8c-ad66ea218238.htm" />
-  <HelpTOCNode Id="3de95d28-f4e2-4e22-9877-fda97737f0c8" Title="Version History" Url="html/09554b0a-940d-42d1-a247-10dcd626ad80.htm">
+  <HelpTOCNode Id="dee6d0c3-0b98-4a14-b65f-885ec81a8f28" Title="Version History" Url="html/09554b0a-940d-42d1-a247-10dcd626ad80.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/d619f0d0-52ae-4684-9016-1f0bf98b8c6e.htm" />
   </HelpTOCNode>
 </HelpTOC>

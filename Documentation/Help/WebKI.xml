@@ -3,12 +3,12 @@
   <HelpKINode Title="ArithmeticTree class">
     <HelpKINode Title="ArithmeticTree Class" Url="html/d2b0f6ee-88c8-46be-5310-98fbb1ba2468.htm" />
     <HelpKINode Title="about ArithmeticTree class" Url="html/d2b0f6ee-88c8-46be-5310-98fbb1ba2468.htm" />
-    <HelpKINode Title="constructor" Url="html/745120df-2b41-914b-8ccc-aab15c64c18e.htm" />
+    <HelpKINode Title="constructor" Url="html/aa1b8a14-400a-6a9f-dc4a-131554ae145a.htm" />
     <HelpKINode Title="methods" Url="html/28a5bf29-2fad-cd67-1dd8-14adf7f1c8af.htm" />
   </HelpKINode>
   <HelpKINode Title="ArithmeticTree namespace" Url="html/2a1958d3-01e5-54e5-d715-de5dca9c5275.htm" />
   <HelpKINode Title="ArithmeticTree.ArithmeticTree class" Url="html/d2b0f6ee-88c8-46be-5310-98fbb1ba2468.htm" />
-  <HelpKINode Title="ArithmeticTree.ArithmeticTree constructor" Url="html/745120df-2b41-914b-8ccc-aab15c64c18e.htm" />
+  <HelpKINode Title="ArithmeticTree.ArithmeticTree constructor" Url="html/aa1b8a14-400a-6a9f-dc4a-131554ae145a.htm" />
   <HelpKINode Title="ArithmeticTree.BinaryTree(Of T) interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
   <HelpKINode Title="ArithmeticTree.BinaryTree&lt;T&gt; interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
   <HelpKINode Title="ArithmeticTree.GetElement method" Url="html/7fe82461-b045-3455-98c0-2d3d7176c212.htm" />
@@ -74,7 +74,7 @@
   <HelpKINode Title="Node(Of T) class">
     <HelpKINode Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
     <HelpKINode Title="about Node(Of T) class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
-    <HelpKINode Title="constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+    <HelpKINode Title="constructor" Url="html/b705cc2b-ce3e-f1b7-394f-3663d70c8301.htm" />
     <HelpKINode Title="methods" Url="html/e9e599d1-f21f-99dc-942a-cecec2302db5.htm" />
     <HelpKINode Title="properties" Url="html/73d81879-7734-30c7-845b-91a922781fe1.htm" />
   </HelpKINode>
@@ -83,13 +83,13 @@
   <HelpKINode Title="Node(Of T).IsExternal method" Url="html/fcd87103-8b05-4a5a-54cd-b57ea1fe7e20.htm" />
   <HelpKINode Title="Node(Of T).IsInternal method" Url="html/a789f95d-634b-bfb2-9803-3e0c697a2074.htm" />
   <HelpKINode Title="Node(Of T).LeftNode property" Url="html/3927723f-3ce0-bc7d-2715-45135e89cfb8.htm" />
-  <HelpKINode Title="Node(Of T).Node constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+  <HelpKINode Title="Node(Of T).Node constructor" Url="html/b705cc2b-ce3e-f1b7-394f-3663d70c8301.htm" />
   <HelpKINode Title="Node(Of T).ParentNode property" Url="html/26414706-8525-4283-b0d0-e0e5450f260e.htm" />
   <HelpKINode Title="Node(Of T).RightNode property" Url="html/d3f4fd84-95cb-25f0-7135-1be6977c9353.htm" />
   <HelpKINode Title="Node&lt;T&gt; class">
     <HelpKINode Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
     <HelpKINode Title="about Node&lt;T&gt; class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
-    <HelpKINode Title="constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+    <HelpKINode Title="constructor" Url="html/b705cc2b-ce3e-f1b7-394f-3663d70c8301.htm" />
     <HelpKINode Title="methods" Url="html/e9e599d1-f21f-99dc-942a-cecec2302db5.htm" />
     <HelpKINode Title="properties" Url="html/73d81879-7734-30c7-845b-91a922781fe1.htm" />
   </HelpKINode>
@@ -98,7 +98,7 @@
   <HelpKINode Title="Node&lt;T&gt;.IsExternal method" Url="html/fcd87103-8b05-4a5a-54cd-b57ea1fe7e20.htm" />
   <HelpKINode Title="Node&lt;T&gt;.IsInternal method" Url="html/a789f95d-634b-bfb2-9803-3e0c697a2074.htm" />
   <HelpKINode Title="Node&lt;T&gt;.LeftNode property" Url="html/3927723f-3ce0-bc7d-2715-45135e89cfb8.htm" />
-  <HelpKINode Title="Node&lt;T&gt;.Node constructor" Url="html/47283172-e66a-bf0d-1424-40e3b3b8f886.htm" />
+  <HelpKINode Title="Node&lt;T&gt;.Node constructor" Url="html/b705cc2b-ce3e-f1b7-394f-3663d70c8301.htm" />
   <HelpKINode Title="Node&lt;T&gt;.ParentNode property" Url="html/26414706-8525-4283-b0d0-e0e5450f260e.htm" />
   <HelpKINode Title="Node&lt;T&gt;.RightNode property" Url="html/d3f4fd84-95cb-25f0-7135-1be6977c9353.htm" />
   <HelpKINode Title="NumberOfLeaves method">
@@ -133,8 +133,8 @@
   <HelpKINode Title="TreeFactory.InfixToPostFix method" Url="html/7f67f114-b187-e60d-3654-8bac81ab075b.htm" />
   <HelpKINode Title="TreeFactory.NextNumberOperator method" Url="html/48ee860f-dc52-7de5-aa46-451548e5e225.htm" />
   <HelpKINode Title="TreeFactory.TreeFactory constructor">
-    <HelpKINode Title="TreeFactory Constructor " Url="html/a54e22ec-025b-0a49-4084-48efe4d30ac6.htm" />
     <HelpKINode Title="TreeFactory Constructor " Url="html/28037469-5451-ddb0-5290-3d0c52419bff.htm" />
+    <HelpKINode Title="TreeFactory Constructor " Url="html/a54e22ec-025b-0a49-4084-48efe4d30ac6.htm" />
   </HelpKINode>
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/d619f0d0-52ae-4684-9016-1f0bf98b8c6e.htm" />

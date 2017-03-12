@@ -31,7 +31,8 @@
     </DocumentationSources>
     <NamespaceSummaries>
       <NamespaceSummaryItem name="(global)" isDocumented="False">Manipulate trees</NamespaceSummaryItem>
-<NamespaceSummaryItem name="ArithmeticTree" isDocumented="True">Manipulate trees</NamespaceSummaryItem></NamespaceSummaries>
+      <NamespaceSummaryItem name="ArithmeticTree" isDocumented="True">Manipulate trees</NamespaceSummaryItem>
+    </NamespaceSummaries>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>HtmlHelp1, Website</HelpFileFormat>

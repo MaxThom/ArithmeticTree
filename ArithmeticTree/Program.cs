@@ -17,8 +17,7 @@ namespace ArithmeticTree
         /// <param name="args">argument when launching project</param>
         static void Main(string[] args)
         {
-            BinaryTree<string> expression1 = TreeFactory.CreateArithmeticTree("(5+2)*(2--1)");
-
+            BinaryTree<string> expression1 = TreeFactory.CreateArithmeticTree("(5+2.24)*(2--1)");
         }
     }
 }
