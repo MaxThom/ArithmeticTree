@@ -30,29 +30,36 @@
       <DocumentationSource sourceFile="..\ArithmeticTree\ArithmeticTree.csproj" />
     </DocumentationSources>
     <NamespaceSummaries>
-      <NamespaceSummaryItem name="(global)" isDocumented="False">Namespace summary</NamespaceSummaryItem>
-    </NamespaceSummaries>
+      <NamespaceSummaryItem name="(global)" isDocumented="False">Manipulate trees</NamespaceSummaryItem>
+<NamespaceSummaryItem name="ArithmeticTree" isDocumented="True">Manipulate trees</NamespaceSummaryItem></NamespaceSummaries>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>HtmlHelp1, Website</HelpFileFormat>
-    <IndentHtml>False</IndentHtml>
+    <IndentHtml>True</IndentHtml>
     <KeepLogFile>True</KeepLogFile>
     <DisableCodeBlockComponent>False</DisableCodeBlockComponent>
     <CleanIntermediates>True</CleanIntermediates>
     <VisibleItems>ExplicitInterfaceImplementations, InheritedMembers, Internals, Privates, Protected, ProtectedInternalAsProtected</VisibleItems>
     <ProjectSummary>Arithmetic Tree for solving mathematical expressions</ProjectSummary>
     <HelpFileVersion>1.0.0.0</HelpFileVersion>
-    <MaximumGroupParts>2</MaximumGroupParts>
+    <MaximumGroupParts>10</MaximumGroupParts>
     <NamespaceGrouping>False</NamespaceGrouping>
     <SyntaxFilters>Standard</SyntaxFilters>
     <SdkLinkTarget>Blank</SdkLinkTarget>
-    <RootNamespaceContainer>True</RootNamespaceContainer>
+    <RootNamespaceContainer>False</RootNamespaceContainer>
     <PresentationStyle>VS2013</PresentationStyle>
     <Preliminary>False</Preliminary>
     <NamingMethod>Guid</NamingMethod>
-    <HelpTitle>A Sandcastle Documented Class Library</HelpTitle>
-    <ContentPlacement>AboveNamespaces</ContentPlacement>
+    <HelpTitle>Documentation for ArithmeticTree</HelpTitle>
+    <ContentPlacement>BelowNamespaces</ContentPlacement>
     <RootNamespaceTitle>ArithmeticTree</RootNamespaceTitle>
+    <TocParentId>-1</TocParentId>
+    <TocParentVersion>100</TocParentVersion>
+    <TopicVersion>100</TopicVersion>
+    <TocOrder>-1</TocOrder>
+    <MSHelpViewerSdkLinkType>Msdn</MSHelpViewerSdkLinkType>
+    <CatalogVersion>100</CatalogVersion>
+    <CatalogProductId>VS</CatalogProductId>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->

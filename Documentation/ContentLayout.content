@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Topics>
-  <Topic id="c8b29ed4-6119-49c8-ab8c-ad66ea218238" visible="True" isDefault="true" isSelected="true" title="Welcome to the [TODO: Add project name]">
+  <Topic id="c8b29ed4-6119-49c8-ab8c-ad66ea218238" visible="True" isDefault="true" isSelected="true" title="Welcome">
     <HelpKeywords>
       <HelpKeyword index="K" term="Welcome" />
     </HelpKeywords>
