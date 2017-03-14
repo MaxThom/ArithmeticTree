@@ -10,7 +10,7 @@ namespace ArithmeticTree
     /// Represent a node of type T of a data structure
     /// </summary>
     /// <typeparam name="T">Element to contain</typeparam>
-    class Node<T>
+    public class Node<T>
     {
         /// <summary>
         /// Data that the node hold
@@ -54,7 +54,7 @@ namespace ArithmeticTree
         /// </summary>
         /// <param name="node">Parent node</param>
         /// <returns>Table of Nodes</returns>
-        IEnumerable<Node<T>> GetChildren(Node<T> node)
+        public IEnumerable<Node<T>> GetChildren(Node<T> node)
         {
             throw new NotImplementedException();
         }
@@ -76,5 +76,29 @@ namespace ArithmeticTree
         {
             throw new NotImplementedException();
         }
+
+        /// <summary>
+        /// Clone the entire tree under the passing node.
+        /// </summary>
+        /// <param name="parent">Used to override the parent to have the newly copied parent</param>
+        /// <returns>Copied Node</returns>
+        public Node<T> Clone(Node<T> parent)
+        { 
+            Node<T> clone = new Node<T>();
+            clone.ParentNode = parent;
+            clone.Data = this.Data;
+            clone.LeftNode = null;
+            clone.RightNode = null;
+
+            // Set Left Node using recursive
+            if (this.LeftNode != null)
+                clone.LeftNode = this.LeftNode.Clone(clone);
+
+            // Set Right Node using recursive
+            if (this.RightNode != null)
+                clone.RightNode = this.RightNode.Clone(clone);
+
+            return clone;
+        } 
     }
 }

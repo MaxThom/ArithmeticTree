@@ -17,7 +17,20 @@ namespace ArithmeticTree
         /// <param name="args">argument when launching project</param>
         static void Main(string[] args)
         {
-            BinaryTree<string> expression1 = TreeFactory.CreateArithmeticTree("(5+2.24)*(2--1)");
+            IBinaryTree<string> expression1 = TreeFactory.CreateArithmeticTree("((5+2.24)*((2--1)^2))");
+
+            foreach (Node<string> element in expression1)
+                Console.WriteLine(element.Data.ToString());
+
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("Answer : " + ((ArithmeticTree) expression1).SolveTree());
+            Console.WriteLine("--------------------------");
+
+            foreach (Node<string> element in expression1.Clone())
+                Console.WriteLine(element.Data.ToString());
+
+            Console.Write("\nPress a key to continue . . .");
+            Console.ReadKey();
         }
     }
 }

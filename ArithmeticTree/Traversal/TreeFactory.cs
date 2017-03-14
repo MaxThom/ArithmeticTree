@@ -107,7 +107,7 @@ namespace ArithmeticTree
                             operators.Push(element);
                         else if (element.Equals(operators.Peek()))
                             operators.Push(element);
-                        else if (priority < -1)
+                        else if (priority < 1)
                         {
                             output.Add(operators.Pop().ToString());
                             bool continu = true;

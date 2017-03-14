@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace ArithmeticTree
     /// Represent different fonctions all binary tree should have
     /// </summary>
     /// <typeparam name="T">Type of the node data</typeparam>
-    interface BinaryTree<T>
+    public interface IBinaryTree<T> : IEnumerable<Node<string>>
     {
         /// <summary>
         /// Return the data of the selected node
@@ -48,5 +49,18 @@ namespace ArithmeticTree
         /// </summary>
         /// <returns>The number of leaves</returns>
         int NumberOfLeaves();
+
+        /// <summary>
+        /// Clone a tree and all is nodes
+        /// </summary>
+        /// <returns>A copy of the original tree</returns>
+        IBinaryTree<T> Clone();
+
+            /// <summary>
+        /// Return an InOrderTraversal Enumerator for this tree
+        /// </summary>
+        /// <returns>Enumerator</returns>
+        InOrderTraversalTree<T> GetInOrderTraversalEnumerator();
+
     }
 }

@@ -9,67 +9,148 @@
   <HelpKINode Title="ArithmeticTree namespace" Url="html/2a1958d3-01e5-54e5-d715-de5dca9c5275.htm" />
   <HelpKINode Title="ArithmeticTree.ArithmeticTree class" Url="html/d2b0f6ee-88c8-46be-5310-98fbb1ba2468.htm" />
   <HelpKINode Title="ArithmeticTree.ArithmeticTree constructor" Url="html/aa1b8a14-400a-6a9f-dc4a-131554ae145a.htm" />
-  <HelpKINode Title="ArithmeticTree.BinaryTree(Of T) interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
-  <HelpKINode Title="ArithmeticTree.BinaryTree&lt;T&gt; interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
+  <HelpKINode Title="ArithmeticTree.Clone method" Url="html/e49638a3-4538-6d9d-08c1-cb11ef8a8f9c.htm" />
+  <HelpKINode Title="ArithmeticTree.GetCalulation method" Url="html/37053d79-9981-1af5-d878-7249e17c5344.htm" />
   <HelpKINode Title="ArithmeticTree.GetElement method" Url="html/7fe82461-b045-3455-98c0-2d3d7176c212.htm" />
+  <HelpKINode Title="ArithmeticTree.GetEnumerator method" Url="html/76e111ba-055e-58d8-6106-fab1216335a9.htm" />
+  <HelpKINode Title="ArithmeticTree.GetInOrderTraversalEnumerator method" Url="html/677bfd29-e546-25b5-2895-40f8d2fd1bd0.htm" />
   <HelpKINode Title="ArithmeticTree.GetRoot method" Url="html/06ded0bc-66b9-5bd4-b091-d8861e32218c.htm" />
   <HelpKINode Title="ArithmeticTree.Height method" Url="html/15632a7f-fbf8-78a9-3098-f7f8a91d65be.htm" />
+  <HelpKINode Title="ArithmeticTree.IBinaryTree(Of T) interface" Url="html/a1ead0c5-164e-cbe9-1961-9c4452ef34df.htm" />
+  <HelpKINode Title="ArithmeticTree.IBinaryTree&lt;T&gt; interface" Url="html/a1ead0c5-164e-cbe9-1961-9c4452ef34df.htm" />
+  <HelpKINode Title="ArithmeticTree.IEnumerable.GetEnumerator explicitly implemented method" Url="html/2667bab8-57af-6fcb-cdcc-12cc4bdfe0de.htm" />
+  <HelpKINode Title="ArithmeticTree.InOrderTraversal(Of T) class" Url="html/508b9039-9752-3ac1-3b6b-4d38dbd6e8d2.htm" />
+  <HelpKINode Title="ArithmeticTree.InOrderTraversal&lt;T&gt; class" Url="html/508b9039-9752-3ac1-3b6b-4d38dbd6e8d2.htm" />
+  <HelpKINode Title="ArithmeticTree.InOrderTraversalTree(Of T) class" Url="html/0f9e1dbe-a658-2aa8-a77a-9fd06bb214dd.htm" />
+  <HelpKINode Title="ArithmeticTree.InOrderTraversalTree&lt;T&gt; class" Url="html/0f9e1dbe-a658-2aa8-a77a-9fd06bb214dd.htm" />
   <HelpKINode Title="ArithmeticTree.IsEmpty method" Url="html/7c554a58-0602-cf60-db70-6abeab847050.htm" />
   <HelpKINode Title="ArithmeticTree.Node(Of T) class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
   <HelpKINode Title="ArithmeticTree.Node&lt;T&gt; class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
   <HelpKINode Title="ArithmeticTree.NumberOfLeaves method" Url="html/06d9e7b5-f31a-1988-cb7f-096edec1b7d6.htm" />
   <HelpKINode Title="ArithmeticTree.Program class" Url="html/bab426d9-71e6-969a-eaff-7f49572bde26.htm" />
   <HelpKINode Title="ArithmeticTree.Size method" Url="html/f0206fdd-6c0f-6e5c-7196-cc766775d968.htm" />
+  <HelpKINode Title="ArithmeticTree.SolveLevel method" Url="html/ecc0bdbf-d611-04ad-50a5-7ee4f5472324.htm" />
+  <HelpKINode Title="ArithmeticTree.SolveTree method" Url="html/8bd47477-aec4-cfee-aeb9-85cff699731d.htm" />
   <HelpKINode Title="ArithmeticTree.TreeFactory class" Url="html/24045dbd-b79d-d782-5c09-e833b85f45ab.htm" />
-  <HelpKINode Title="BinaryTree(Of T) interface">
-    <HelpKINode Title="BinaryTree(T) Interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
-    <HelpKINode Title="about BinaryTree(Of T) interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
-    <HelpKINode Title="methods" Url="html/5672aaa1-9bfb-74e8-50db-b54d33f7a22c.htm" />
+  <HelpKINode Title="Clone method">
+    <HelpKINode Title="ArithmeticTree.Clone Method " Url="html/e49638a3-4538-6d9d-08c1-cb11ef8a8f9c.htm" />
+    <HelpKINode Title="IBinaryTree(T).Clone Method " Url="html/e222c80b-90d7-1cf6-a79f-7bf6f4454c28.htm" />
+    <HelpKINode Title="Node(T).Clone Method " Url="html/d5d0b36f-602e-3845-5945-2faa375e35f0.htm" />
   </HelpKINode>
-  <HelpKINode Title="BinaryTree(Of T).GetElement method" Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
-  <HelpKINode Title="BinaryTree(Of T).GetRoot method" Url="html/e9e9964d-1fb3-79d0-142c-194ffb76514a.htm" />
-  <HelpKINode Title="BinaryTree(Of T).Height method" Url="html/b7ae1cde-8962-151c-4966-59475a36256e.htm" />
-  <HelpKINode Title="BinaryTree(Of T).IsEmpty method" Url="html/af2919f2-00fd-159a-ad20-3746519c7d99.htm" />
-  <HelpKINode Title="BinaryTree(Of T).NumberOfLeaves method" Url="html/4d9b88ce-4404-4be1-a7c4-1a8caf25a8a0.htm" />
-  <HelpKINode Title="BinaryTree(Of T).Size method" Url="html/2ed8ed81-1d6e-bb3d-dc8a-a94348729bfa.htm" />
-  <HelpKINode Title="BinaryTree&lt;T&gt; interface">
-    <HelpKINode Title="BinaryTree(T) Interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
-    <HelpKINode Title="about BinaryTree&lt;T&gt; interface" Url="html/191260d4-9ad8-88d3-95db-098fcee6b4e7.htm" />
-    <HelpKINode Title="methods" Url="html/5672aaa1-9bfb-74e8-50db-b54d33f7a22c.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BinaryTree&lt;T&gt;.GetElement method" Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
-  <HelpKINode Title="BinaryTree&lt;T&gt;.GetRoot method" Url="html/e9e9964d-1fb3-79d0-142c-194ffb76514a.htm" />
-  <HelpKINode Title="BinaryTree&lt;T&gt;.Height method" Url="html/b7ae1cde-8962-151c-4966-59475a36256e.htm" />
-  <HelpKINode Title="BinaryTree&lt;T&gt;.IsEmpty method" Url="html/af2919f2-00fd-159a-ad20-3746519c7d99.htm" />
-  <HelpKINode Title="BinaryTree&lt;T&gt;.NumberOfLeaves method" Url="html/4d9b88ce-4404-4be1-a7c4-1a8caf25a8a0.htm" />
-  <HelpKINode Title="BinaryTree&lt;T&gt;.Size method" Url="html/2ed8ed81-1d6e-bb3d-dc8a-a94348729bfa.htm" />
   <HelpKINode Title="CreateArithmeticTree method" Url="html/d07e8b85-1995-214d-6f1b-867ab47fa2b2.htm" />
+  <HelpKINode Title="Current property" Url="html/593faacc-445e-dfe4-1b46-f4fb462ff2cb.htm" />
   <HelpKINode Title="Data property" Url="html/56322196-1beb-115d-6ef1-43ed42d1a12a.htm" />
+  <HelpKINode Title="Dispose method" Url="html/f6bb3e70-ed75-8a0c-cdf4-96fc89da3201.htm" />
   <HelpKINode Title="ExpressionToList method" Url="html/31a22ffd-615e-52fd-338d-45eb788f0fba.htm" />
+  <HelpKINode Title="GetCalulation method" Url="html/37053d79-9981-1af5-d878-7249e17c5344.htm" />
   <HelpKINode Title="GetChildren method" Url="html/42b96361-1f44-25b4-48ce-91d7b0664953.htm" />
   <HelpKINode Title="GetElement method">
     <HelpKINode Title="ArithmeticTree.GetElement Method " Url="html/7fe82461-b045-3455-98c0-2d3d7176c212.htm" />
-    <HelpKINode Title="BinaryTree(T).GetElement Method " Url="html/f2a89e73-8ffe-ed1c-2355-40b8dc791428.htm" />
+    <HelpKINode Title="IBinaryTree(T).GetElement Method " Url="html/be56a9cf-71b0-fece-2c94-2c3d24345de6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEnumerator method">
+    <HelpKINode Title="ArithmeticTree.GetEnumerator Method " Url="html/76e111ba-055e-58d8-6106-fab1216335a9.htm" />
+    <HelpKINode Title="InOrderTraversalTree(T).GetEnumerator Method " Url="html/c06b36dc-dc3e-ca84-70fe-6ac4935ab12c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetInOrderTraversalEnumerator method">
+    <HelpKINode Title="ArithmeticTree.GetInOrderTraversalEnumerator Method " Url="html/677bfd29-e546-25b5-2895-40f8d2fd1bd0.htm" />
+    <HelpKINode Title="IBinaryTree(T).GetInOrderTraversalEnumerator Method " Url="html/d08d7a4d-a1bc-bd83-9463-edfddc9cadbf.htm" />
   </HelpKINode>
   <HelpKINode Title="GetNumber method" Url="html/37800a80-9538-eb39-3970-5a488935fa8c.htm" />
   <HelpKINode Title="GetRoot method">
     <HelpKINode Title="ArithmeticTree.GetRoot Method " Url="html/06ded0bc-66b9-5bd4-b091-d8861e32218c.htm" />
-    <HelpKINode Title="BinaryTree(T).GetRoot Method " Url="html/e9e9964d-1fb3-79d0-142c-194ffb76514a.htm" />
+    <HelpKINode Title="IBinaryTree(T).GetRoot Method " Url="html/300d754b-ba51-904d-9904-474b165daa7d.htm" />
   </HelpKINode>
   <HelpKINode Title="Height method">
     <HelpKINode Title="ArithmeticTree.Height Method " Url="html/15632a7f-fbf8-78a9-3098-f7f8a91d65be.htm" />
-    <HelpKINode Title="BinaryTree(T).Height Method " Url="html/b7ae1cde-8962-151c-4966-59475a36256e.htm" />
+    <HelpKINode Title="IBinaryTree(T).Height Method " Url="html/4533c732-8e73-a753-e8c4-e5ac71e3f121.htm" />
   </HelpKINode>
   <HelpKINode Title="HighestPriority method" Url="html/cda2160c-e5ae-241e-27c9-6d8eeba7c17b.htm" />
+  <HelpKINode Title="IBinaryTree(Of T) interface">
+    <HelpKINode Title="IBinaryTree(T) Interface" Url="html/a1ead0c5-164e-cbe9-1961-9c4452ef34df.htm" />
+    <HelpKINode Title="about IBinaryTree(Of T) interface" Url="html/a1ead0c5-164e-cbe9-1961-9c4452ef34df.htm" />
+    <HelpKINode Title="methods" Url="html/2f1ac62b-861f-40e8-7196-239d5421e9db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBinaryTree(Of T).Clone method" Url="html/e222c80b-90d7-1cf6-a79f-7bf6f4454c28.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).GetElement method" Url="html/be56a9cf-71b0-fece-2c94-2c3d24345de6.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).GetInOrderTraversalEnumerator method" Url="html/d08d7a4d-a1bc-bd83-9463-edfddc9cadbf.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).GetRoot method" Url="html/300d754b-ba51-904d-9904-474b165daa7d.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).Height method" Url="html/4533c732-8e73-a753-e8c4-e5ac71e3f121.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).IsEmpty method" Url="html/1bf26160-8719-40e1-71fc-b7d471ffdf10.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).NumberOfLeaves method" Url="html/240e8ccd-9aa9-6ad3-68f9-771243cd1968.htm" />
+  <HelpKINode Title="IBinaryTree(Of T).Size method" Url="html/652ce444-897f-0d07-a123-ae26470947fb.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt; interface">
+    <HelpKINode Title="IBinaryTree(T) Interface" Url="html/a1ead0c5-164e-cbe9-1961-9c4452ef34df.htm" />
+    <HelpKINode Title="about IBinaryTree&lt;T&gt; interface" Url="html/a1ead0c5-164e-cbe9-1961-9c4452ef34df.htm" />
+    <HelpKINode Title="methods" Url="html/2f1ac62b-861f-40e8-7196-239d5421e9db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.Clone method" Url="html/e222c80b-90d7-1cf6-a79f-7bf6f4454c28.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.GetElement method" Url="html/be56a9cf-71b0-fece-2c94-2c3d24345de6.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.GetInOrderTraversalEnumerator method" Url="html/d08d7a4d-a1bc-bd83-9463-edfddc9cadbf.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.GetRoot method" Url="html/300d754b-ba51-904d-9904-474b165daa7d.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.Height method" Url="html/4533c732-8e73-a753-e8c4-e5ac71e3f121.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.IsEmpty method" Url="html/1bf26160-8719-40e1-71fc-b7d471ffdf10.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.NumberOfLeaves method" Url="html/240e8ccd-9aa9-6ad3-68f9-771243cd1968.htm" />
+  <HelpKINode Title="IBinaryTree&lt;T&gt;.Size method" Url="html/652ce444-897f-0d07-a123-ae26470947fb.htm" />
+  <HelpKINode Title="IEnumerable.GetEnumerator explicitly implemented method">
+    <HelpKINode Title="ArithmeticTree.IEnumerable.GetEnumerator Method " Url="html/2667bab8-57af-6fcb-cdcc-12cc4bdfe0de.htm" />
+    <HelpKINode Title="InOrderTraversalTree(T).IEnumerable.GetEnumerator Method " Url="html/882d8b0c-e6bd-e06a-33c5-bc35e96bb806.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEnumerator.Current explicitly implemented property" Url="html/1a69226f-8f44-b392-5815-b3409b236af3.htm" />
   <HelpKINode Title="InfixToPostFix method" Url="html/7f67f114-b187-e60d-3654-8bac81ab075b.htm" />
+  <HelpKINode Title="InOrderTraversal(Of T) class">
+    <HelpKINode Title="InOrderTraversal(T) Class" Url="html/508b9039-9752-3ac1-3b6b-4d38dbd6e8d2.htm" />
+    <HelpKINode Title="about InOrderTraversal(Of T) class" Url="html/508b9039-9752-3ac1-3b6b-4d38dbd6e8d2.htm" />
+    <HelpKINode Title="constructor" Url="html/c75121fd-6dee-c9af-31ee-b1645fa19dd3.htm" />
+    <HelpKINode Title="methods" Url="html/3d024adc-fdd8-f8bb-99a2-b5509c0fd45f.htm" />
+    <HelpKINode Title="properties" Url="html/ab0aa2f4-b11c-0042-7ddb-43813a8ea4d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InOrderTraversal(Of T).Current property" Url="html/593faacc-445e-dfe4-1b46-f4fb462ff2cb.htm" />
+  <HelpKINode Title="InOrderTraversal(Of T).Dispose method" Url="html/f6bb3e70-ed75-8a0c-cdf4-96fc89da3201.htm" />
+  <HelpKINode Title="InOrderTraversal(Of T).IEnumerator.Current explicitly implemented property" Url="html/1a69226f-8f44-b392-5815-b3409b236af3.htm" />
+  <HelpKINode Title="InOrderTraversal(Of T).InOrderTraversal constructor" Url="html/c75121fd-6dee-c9af-31ee-b1645fa19dd3.htm" />
+  <HelpKINode Title="InOrderTraversal(Of T).MoveNext method" Url="html/8ce97e52-e262-5c84-0488-dcedec4ef31c.htm" />
+  <HelpKINode Title="InOrderTraversal(Of T).Reset method" Url="html/467b4644-fb3e-875d-90ea-38a71d94eccf.htm" />
+  <HelpKINode Title="InOrderTraversal&lt;T&gt; class">
+    <HelpKINode Title="InOrderTraversal(T) Class" Url="html/508b9039-9752-3ac1-3b6b-4d38dbd6e8d2.htm" />
+    <HelpKINode Title="about InOrderTraversal&lt;T&gt; class" Url="html/508b9039-9752-3ac1-3b6b-4d38dbd6e8d2.htm" />
+    <HelpKINode Title="constructor" Url="html/c75121fd-6dee-c9af-31ee-b1645fa19dd3.htm" />
+    <HelpKINode Title="methods" Url="html/3d024adc-fdd8-f8bb-99a2-b5509c0fd45f.htm" />
+    <HelpKINode Title="properties" Url="html/ab0aa2f4-b11c-0042-7ddb-43813a8ea4d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InOrderTraversal&lt;T&gt;.Current property" Url="html/593faacc-445e-dfe4-1b46-f4fb462ff2cb.htm" />
+  <HelpKINode Title="InOrderTraversal&lt;T&gt;.Dispose method" Url="html/f6bb3e70-ed75-8a0c-cdf4-96fc89da3201.htm" />
+  <HelpKINode Title="InOrderTraversal&lt;T&gt;.IEnumerator.Current explicitly implemented property" Url="html/1a69226f-8f44-b392-5815-b3409b236af3.htm" />
+  <HelpKINode Title="InOrderTraversal&lt;T&gt;.InOrderTraversal constructor" Url="html/c75121fd-6dee-c9af-31ee-b1645fa19dd3.htm" />
+  <HelpKINode Title="InOrderTraversal&lt;T&gt;.MoveNext method" Url="html/8ce97e52-e262-5c84-0488-dcedec4ef31c.htm" />
+  <HelpKINode Title="InOrderTraversal&lt;T&gt;.Reset method" Url="html/467b4644-fb3e-875d-90ea-38a71d94eccf.htm" />
+  <HelpKINode Title="InOrderTraversalTree(Of T) class">
+    <HelpKINode Title="InOrderTraversalTree(T) Class" Url="html/0f9e1dbe-a658-2aa8-a77a-9fd06bb214dd.htm" />
+    <HelpKINode Title="about InOrderTraversalTree(Of T) class" Url="html/0f9e1dbe-a658-2aa8-a77a-9fd06bb214dd.htm" />
+    <HelpKINode Title="constructor" Url="html/793d22f5-1892-790f-1426-f0cb85fbb5c6.htm" />
+    <HelpKINode Title="methods" Url="html/a17b1f71-e55f-6380-ec65-78e0026000c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InOrderTraversalTree(Of T).GetEnumerator method" Url="html/c06b36dc-dc3e-ca84-70fe-6ac4935ab12c.htm" />
+  <HelpKINode Title="InOrderTraversalTree(Of T).IEnumerable.GetEnumerator explicitly implemented method" Url="html/882d8b0c-e6bd-e06a-33c5-bc35e96bb806.htm" />
+  <HelpKINode Title="InOrderTraversalTree(Of T).InOrderTraversalTree constructor" Url="html/793d22f5-1892-790f-1426-f0cb85fbb5c6.htm" />
+  <HelpKINode Title="InOrderTraversalTree&lt;T&gt; class">
+    <HelpKINode Title="InOrderTraversalTree(T) Class" Url="html/0f9e1dbe-a658-2aa8-a77a-9fd06bb214dd.htm" />
+    <HelpKINode Title="about InOrderTraversalTree&lt;T&gt; class" Url="html/0f9e1dbe-a658-2aa8-a77a-9fd06bb214dd.htm" />
+    <HelpKINode Title="constructor" Url="html/793d22f5-1892-790f-1426-f0cb85fbb5c6.htm" />
+    <HelpKINode Title="methods" Url="html/a17b1f71-e55f-6380-ec65-78e0026000c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InOrderTraversalTree&lt;T&gt;.GetEnumerator method" Url="html/c06b36dc-dc3e-ca84-70fe-6ac4935ab12c.htm" />
+  <HelpKINode Title="InOrderTraversalTree&lt;T&gt;.IEnumerable.GetEnumerator explicitly implemented method" Url="html/882d8b0c-e6bd-e06a-33c5-bc35e96bb806.htm" />
+  <HelpKINode Title="InOrderTraversalTree&lt;T&gt;.InOrderTraversalTree constructor" Url="html/793d22f5-1892-790f-1426-f0cb85fbb5c6.htm" />
   <HelpKINode Title="IsEmpty method">
     <HelpKINode Title="ArithmeticTree.IsEmpty Method " Url="html/7c554a58-0602-cf60-db70-6abeab847050.htm" />
-    <HelpKINode Title="BinaryTree(T).IsEmpty Method " Url="html/af2919f2-00fd-159a-ad20-3746519c7d99.htm" />
+    <HelpKINode Title="IBinaryTree(T).IsEmpty Method " Url="html/1bf26160-8719-40e1-71fc-b7d471ffdf10.htm" />
   </HelpKINode>
   <HelpKINode Title="IsExternal method" Url="html/fcd87103-8b05-4a5a-54cd-b57ea1fe7e20.htm" />
   <HelpKINode Title="IsInternal method" Url="html/a789f95d-634b-bfb2-9803-3e0c697a2074.htm" />
   <HelpKINode Title="LeftNode property" Url="html/3927723f-3ce0-bc7d-2715-45135e89cfb8.htm" />
   <HelpKINode Title="Main method" Url="html/11181802-ef2b-fdc1-d0c0-cf8e7d51eff1.htm" />
+  <HelpKINode Title="MoveNext method" Url="html/8ce97e52-e262-5c84-0488-dcedec4ef31c.htm" />
   <HelpKINode Title="NextNumberOperator method" Url="html/48ee860f-dc52-7de5-aa46-451548e5e225.htm" />
   <HelpKINode Title="Node(Of T) class">
     <HelpKINode Title="Node(T) Class" Url="html/6a17dd8a-3081-59e1-c5f0-1ede1a6d991e.htm" />
@@ -78,6 +159,7 @@
     <HelpKINode Title="methods" Url="html/e9e599d1-f21f-99dc-942a-cecec2302db5.htm" />
     <HelpKINode Title="properties" Url="html/73d81879-7734-30c7-845b-91a922781fe1.htm" />
   </HelpKINode>
+  <HelpKINode Title="Node(Of T).Clone method" Url="html/d5d0b36f-602e-3845-5945-2faa375e35f0.htm" />
   <HelpKINode Title="Node(Of T).Data property" Url="html/56322196-1beb-115d-6ef1-43ed42d1a12a.htm" />
   <HelpKINode Title="Node(Of T).GetChildren method" Url="html/42b96361-1f44-25b4-48ce-91d7b0664953.htm" />
   <HelpKINode Title="Node(Of T).IsExternal method" Url="html/fcd87103-8b05-4a5a-54cd-b57ea1fe7e20.htm" />
@@ -93,6 +175,7 @@
     <HelpKINode Title="methods" Url="html/e9e599d1-f21f-99dc-942a-cecec2302db5.htm" />
     <HelpKINode Title="properties" Url="html/73d81879-7734-30c7-845b-91a922781fe1.htm" />
   </HelpKINode>
+  <HelpKINode Title="Node&lt;T&gt;.Clone method" Url="html/d5d0b36f-602e-3845-5945-2faa375e35f0.htm" />
   <HelpKINode Title="Node&lt;T&gt;.Data property" Url="html/56322196-1beb-115d-6ef1-43ed42d1a12a.htm" />
   <HelpKINode Title="Node&lt;T&gt;.GetChildren method" Url="html/42b96361-1f44-25b4-48ce-91d7b0664953.htm" />
   <HelpKINode Title="Node&lt;T&gt;.IsExternal method" Url="html/fcd87103-8b05-4a5a-54cd-b57ea1fe7e20.htm" />
@@ -103,7 +186,7 @@
   <HelpKINode Title="Node&lt;T&gt;.RightNode property" Url="html/d3f4fd84-95cb-25f0-7135-1be6977c9353.htm" />
   <HelpKINode Title="NumberOfLeaves method">
     <HelpKINode Title="ArithmeticTree.NumberOfLeaves Method " Url="html/06d9e7b5-f31a-1988-cb7f-096edec1b7d6.htm" />
-    <HelpKINode Title="BinaryTree(T).NumberOfLeaves Method " Url="html/4d9b88ce-4404-4be1-a7c4-1a8caf25a8a0.htm" />
+    <HelpKINode Title="IBinaryTree(T).NumberOfLeaves Method " Url="html/240e8ccd-9aa9-6ad3-68f9-771243cd1968.htm" />
   </HelpKINode>
   <HelpKINode Title="ParentNode property" Url="html/26414706-8525-4283-b0d0-e0e5450f260e.htm" />
   <HelpKINode Title="Program class">
@@ -114,11 +197,14 @@
   </HelpKINode>
   <HelpKINode Title="Program.Main method" Url="html/11181802-ef2b-fdc1-d0c0-cf8e7d51eff1.htm" />
   <HelpKINode Title="Program.Program constructor" Url="html/899b74bd-f10f-0217-852b-19d84e8b4faa.htm" />
+  <HelpKINode Title="Reset method" Url="html/467b4644-fb3e-875d-90ea-38a71d94eccf.htm" />
   <HelpKINode Title="RightNode property" Url="html/d3f4fd84-95cb-25f0-7135-1be6977c9353.htm" />
   <HelpKINode Title="Size method">
     <HelpKINode Title="ArithmeticTree.Size Method " Url="html/f0206fdd-6c0f-6e5c-7196-cc766775d968.htm" />
-    <HelpKINode Title="BinaryTree(T).Size Method " Url="html/2ed8ed81-1d6e-bb3d-dc8a-a94348729bfa.htm" />
+    <HelpKINode Title="IBinaryTree(T).Size Method " Url="html/652ce444-897f-0d07-a123-ae26470947fb.htm" />
   </HelpKINode>
+  <HelpKINode Title="SolveLevel method" Url="html/ecc0bdbf-d611-04ad-50a5-7ee4f5472324.htm" />
+  <HelpKINode Title="SolveTree method" Url="html/8bd47477-aec4-cfee-aeb9-85cff699731d.htm" />
   <HelpKINode Title="TreeFactory class">
     <HelpKINode Title="TreeFactory Class" Url="html/24045dbd-b79d-d782-5c09-e833b85f45ab.htm" />
     <HelpKINode Title="about TreeFactory class" Url="html/24045dbd-b79d-d782-5c09-e833b85f45ab.htm" />
