@@ -31,6 +31,10 @@ namespace ArithmeticTree
         {
             // Transform the expression into infix notation
             List<string> listPostFix = InfixToPostFix(ExpressionToList(expression));
+            foreach (var str in  listPostFix)
+                Console.Write(str.ToString());
+            Console.WriteLine();
+
             // Set root and current nood
             Node<string> root = new Node<string>(listPostFix.Last());
             Node<string> current = root;
@@ -147,30 +151,30 @@ namespace ArithmeticTree
         /// <returns>1 for op1 is higher, -1 for op2 is higher, 0 if equal</returns>
         private static int HighestPriority(string operator1, string operator2)
         {
-            int op1Pos = 0;
-            int op2Pos = 0;
+            int op1Pos = -1;
+            int op2Pos = -1;
 
             // Loop through the table
             for (int i = 0 ; i < _binaryOperator.Length ; i++)
             {
-                for (int j = 0; j < _binaryOperator[j].Length; j++)
+                for (int j = 0; j < _binaryOperator[i].Length; j++)
                 {
-                    if (_binaryOperator.Equals(operator1))
+                    if (_binaryOperator[i][j].Equals(operator1))
                         op1Pos = i;
-                    if (_binaryOperator.Equals(operator2))
+                    if (_binaryOperator[i][j].Equals(operator2))
                         op2Pos = i;
                 }
-
-                // Break when found
-                if (op1Pos == op2Pos)
-                    return 0;
-                if (op1Pos < op2Pos)
-                    return 1;
-                if (op1Pos > op2Pos)
-                    return -1;
             }
 
-            return 0;
+            // Break when found
+            if (op1Pos == op2Pos)
+                return 0;
+            if (op1Pos < op2Pos)
+                return 1;
+            if (op1Pos > op2Pos)
+                return -1;
+
+            return -1;
         }
 
         /// <summary>
