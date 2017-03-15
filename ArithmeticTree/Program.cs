@@ -17,7 +17,7 @@ namespace ArithmeticTree
         /// <param name="args">argument when launching project</param>
         static void Main(string[] args)
         {
-            IBinaryTree<string> expression1 = TreeFactory.CreateArithmeticTree("(1+2)+4/3");
+            IBinaryTree<string> expression1 = TreeFactory.CreateArithmeticTree("0.5+35*97/63^3--21");
 
             foreach (Node<string> element in expression1)
                 Console.WriteLine(element.Data.ToString());

@@ -109,18 +109,21 @@ namespace ArithmeticTree
                         // If higher priority, just push. Else add the first in the stack on the output
                         if (priority == 1)
                             operators.Push(element);
-                        else if (element.Equals(operators.Peek()))
-                            operators.Push(element);
-                        else if (priority < 1)
+                        else if (priority == 0) //element.Equals(operators.Peek()))
                         {
-                            output.Add(operators.Pop().ToString());
+                            output.Add(operators.Pop());
+                            operators.Push(element);
+                        }
+                        else if (priority == -1)
+                        {
+                            output.Add(operators.Pop());
                             bool continu = true;
                             while (continu)
                             {
-                                if (operators.Any() && !operators.Peek().ToString().Equals("("))
+                                if (operators.Any() && !operators.Peek().Equals("("))
                                 {
-                                    priority = HighestPriority(element, operators.Peek().ToString());
-                                    output.Add(operators.Pop().ToString());
+                                    priority = HighestPriority(element, operators.Peek());
+                                    output.Add(operators.Pop());
                                 }
                                 else
                                     continu = false;
